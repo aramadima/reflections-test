@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is a virtual area that bundles files that are later to be committed to a repository. It offers a temporary intermediate place between the actual working directory and the repository.
