@@ -1,3 +1,7 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is a virtual area that bundles files that are later to be committed to a repository. It offers a temporary intermediate place between the actual working directory and the repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Creating an experiment, or modifying something considerably in the code, trying new things out etc.
