@@ -13,3 +13,7 @@ They make it easier to track the commit parents and the different branches. Much
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is just one branch that combines the commits from both branches in a certain logical way.
+
+What are the pros and cons of GitÎéÎ÷s automatic merging vs. always doing merges manually?
+
+Pros: you don't have to remember to do it. Con: it will not capture the logical changes, but rather the time-based ones.
