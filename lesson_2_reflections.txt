@@ -9,3 +9,7 @@ Creating an experiment, or modifying something considerably in the code, trying 
 How do the diagrams help you visualize the branch structure?
 
 They make it easier to track the commit parents and the different branches. Much easier than the "git log" output.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is just one branch that combines the commits from both branches in a certain logical way.
