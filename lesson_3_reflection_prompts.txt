@@ -9,3 +9,7 @@ To control the exact time of change, which is better known to you than Git itsel
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are remote copies of someone else's repositories, into your account. Clones are local copies of the remote repository. Branches are just a way of tracking commits and their parents.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaboration could be achieved through a shared access to the same file system, face-to-face interaction, as well as by email.
