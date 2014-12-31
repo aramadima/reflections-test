@@ -5,3 +5,7 @@ To be able to sync the data as a backup, share it with colleagues, collaborate w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 To control the exact time of change, which is better known to you than Git itself.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are remote copies of someone else's repositories, into your account. Clones are local copies of the remote repository. Branches are just a way of tracking commits and their parents.
